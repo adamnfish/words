@@ -12,3 +12,8 @@ From the root of the project, with `sbt` installed:
 e.g.
 
     sbt run abcdef
+
+## Note
+
+Dictionary is hard-coded to Ubuntu's default location for British
+English.
