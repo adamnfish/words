@@ -15,5 +15,5 @@ e.g.
 
 ## Note
 
-Dictionary is hard-coded to Ubuntu's default location for British
-English.
+Dictionary is hard-coded to try Ubuntu and OSX's default location for the
+Unix words file (and uses the british english file in the former case).
